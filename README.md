@@ -49,6 +49,7 @@ You can either:
   cd TREND-Health---ML-Engineer-Technical-Exercise-I
 
 ## Or download as ZIP from GitHub → Extract → Open folder in VS Code
+
 Test Installation
 pip install -r requirements.txt
 
