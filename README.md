@@ -20,6 +20,8 @@ It uses NYC’s 311 service request dataset (Q1 2023) and includes:
 Trend Health ML Engineer
 
 nyc_311_q1_2023.csv - Public dataset (Q1 2023 slice)
+The dataset (`nyc_311_q1_2023.csv`) is not included due to size. You can download it manually from NYC OpenData [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) by filtering for dates between Jan 1 and Mar 31, 2023. and rename the file as "nyc_311_q1_2023.csv"
+
 
 schema.sql - SQL DDL schema for SQLite DB
 
